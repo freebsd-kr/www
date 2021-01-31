@@ -1,0 +1,64 @@
+/* article */
+article.tc-l {
+	text-align: initial;
+}
+
+.pa4-ns {
+  padding: 1rem;
+}
+
+.pa4-l {
+  padding: 1rem;
+}
+
+.pa4 {
+  padding: 0;
+}
+
+.ph5-l {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.cf, .mw7, .mw8 {
+	max-width: max-content;
+}
+
+.f1 {
+  font-size: 2rem;
+}
+
+.f3 {
+  font-size: 1.2rem;
+}
+
+.f1, .f2, .f3, .f4, .f5 {
+  color: black;
+}
+
+.f4 {
+  vertical-align: middle;
+}
+
+/* page header */
+.lh-title {
+  font-size: 2.5rem;
+}
+
+.pb6-l, .pb7 {
+  padding-bottom: 1rem;
+}
+
+/* table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  padding: 0.6rem;
+}

@@ -1,0 +1,15 @@
+languageCode = "ko-kr"
+theme = "ananke"
+
+googleAnalytics = "UA-179508-1"
+enableRobotsTXT = true
+SectionPagesMenu = "main"
+
+[params]
+  site_logo = "/images/chuck_korea-small.jpg"
+  background_color_class = "bg-white"
+  facebook = "https://www.facebook.com/groups/freebsdkorea/"
+  custom_css = ["css/custom.css"]
+  body_classes = "helvetica san-serif bg-near-white"
+  post_content_classes = "helvetica san-serif bg-near-white"
+  recent_copy = "뉴스 및 공지사항"
