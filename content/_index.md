@@ -3,7 +3,7 @@ title: 한국 FreeBSD 사용자 그룹
 description: "환영합니다!"
 ---
 
-한국 FreeBSD 사용자 그룹은 FreeBSD를 사용하고 사랑하는 모든 사람을 위한 그룹입니다. 
+한국 FreeBSD 사용자 그룹은 FreeBSD를 사용하고 사랑하는 모든 사람을 위한 그룹입니다.
 
 FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있습니다. 커뮤니티에 가입하실 분은 [페이스북 그룹](https://www.facebook.com/groups/freebsdkorea/) 에 가입해 주세요.
 
@@ -13,7 +13,10 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 # 커뮤니티 정보
 
-* Facebook 한국 FreeBSD 사용자 그룹 - https://www.facebook.com/groups/freebsdkorea/
+* Facebook 한국 FreeBSD 사용자 그룹: https://www.facebook.com/groups/freebsdkorea/
+* 사이트 소스: https://github.com/freebsd-kr/www
+  * 내용 변경이나 추가에 대한 제안이 있으시면 위 페이지를 이용해 주세요. 풀 리퀘스트 환영 합니다.
+  * github 에서는 사이트 내용 이외의 질문은 받지 않습니다.
 
 # FreeBSD 정보
 
