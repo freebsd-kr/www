@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
   site_logo = "/images/chuck_korea-small.jpg"
   background_color_class = "bg-white"
   facebook = "https://www.facebook.com/groups/freebsdkorea/"
+  github = "https://github.com/freebsd-kr/www"
   custom_css = ["css/custom.css"]
   body_classes = "helvetica san-serif bg-near-white"
   post_content_classes = "helvetica san-serif bg-near-white"
