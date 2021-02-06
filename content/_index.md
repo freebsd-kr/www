@@ -24,12 +24,12 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 ### 마스터 미러
 
-* ftp://ftp.kr.freebsd.org FTP 한국 미러 - KFUG
 * http://ftp.kr.freebsd.org HTTP 한국 미러 - KFUG
 * https://ftp.kr.freebsd.org HTTPS 한국 미러 - KFUG
+* ftp://ftp.kr.freebsd.org FTP 한국 미러 - KFUG
 * http://ftp.kaist.ac.kr (KAIST) ftp2.kr.freebsd.org 로도 접속 가능 합니다. 단 /pub/FreeBSD가 아니라 /FreeBSD 임에 주의 하세요.
-* ftp://ftp2.kr.freebsd.org/FreeBSD/ FTP 미러
 * http://ftp2.kr.freebsd.org/FreeBSD HTTP 미러
+* ftp://ftp2.kr.freebsd.org/FreeBSD/ FTP 미러
 
 ## 릴리즈 버전
 
@@ -38,14 +38,15 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 ### FreeBSD 12.2-RELEASE (2020/10)
 
 * https://www.freebsd.org/releases/12.2R/relnotes.html 릴리즈 노트
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/12.2/ ISO/USB/SD카드 설치 이미지 다운로드
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/12.2-RELEASE/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/12.2/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/12.2-RELEASE/ 가상머신 이미지 다운로드
 
 ### FreeBSD 11.4-RELEASE (2020/6)
 
 * https://www.freebsd.org/releases/11.4R/relnotes.html 릴리즈 노트
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/11.4/ ISO/USB/SD카드 설치 이미지 다운로드
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/11.4-RELEASE/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/11.4/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/11.4-RELEASE/ 가상머신 이미지 다운로드
+
 
 ## 개발 버전
 
@@ -53,20 +54,14 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 ### 13.0-CURRENT
 
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/13.0/ 13.0-CURRENT ISO/USB/SD카드 설치 이미지 다운로드
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/13.0-CURRENT/ 13.0-CURRENT 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/13.0/ 13.0-CURRENT ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/13.0-CURRENT/ 13.0-CURRENT 가상머신 이미지 다운로드
 
-### 12.1-STABLE
+### 12.2-STABLE
 
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/12.1/ 12.1-STABLE ISO/USB/SD카드 설치 이미지 다운로드
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/12.1-STABLE/ 12.1-STABLE 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/12.2/ 12.2-STABLE ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/12.2-STABLE/ 12.2-STABLE 가상머신 이미지 다운로드
 
-### 11.4-STABLE
-
-릴리즈 11의 최신 개발 버전입니다.
-
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/11.4/ 11.4-STABLE ISO/USB/SD카드 설치 이미지 다운로드
-* ftp://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/11.4-STABLE/ 11.4-STABLE 가상머신 이미지 다운로드
 
 ## 설치 방법
 
