@@ -51,10 +51,10 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 최신 개발 버전은 **13.0-CURRENT** 입니다.​
 
-### [13.0-BETA1](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html) (2021/2/6)
+### [13.0-RC3](https://lists.freebsd.org/pipermail/freebsd-stable/2021-March/093340.html) (2021/3/21)
 
 * https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/13.0/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.0-BETA1/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.0-RC3/ 가상머신 이미지 다운로드
 
 ### 13.0-CURRENT
 
