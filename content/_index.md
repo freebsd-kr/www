@@ -33,14 +33,15 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 ## 릴리즈 버전
 
-최신 릴리즈는 **12.2-RELEASE** 입니다.
+최신 릴리즈는 **13.0-RELEASE** 입니다.
 
-### FreeBSD 13 (2021/4)
+### FreeBSD 13.0-RELEASE (2021/4)
 
-최신 버전은 [13.0-RC5](https://lists.freebsd.org/pipermail/freebsd-stable/2021-April/093429.html) (2021/4/3) 입니다.
+최신 버전은 [13.0-RELEASE](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002031.html)
+ (2021/4/13) 입니다.
 
 * https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/13.0/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.0-RC5/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.0-RELEASE/ 가상머신 이미지 다운로드
 
 ### FreeBSD 12.2-RELEASE (2020/10)
 
@@ -62,11 +63,6 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 * https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/14.0/ 14.0-CURRENT ISO/USB/SD카드 설치 이미지 다운로드
 * https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/14.0-CURRENT/ 14.0-CURRENT 가상머신 이미지 다운로드
-
-### 12.2-STABLE
-
-* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/12.2/ 12.2-STABLE ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/12.2-STABLE/ 12.2-STABLE 가상머신 이미지 다운로드
 
 ## 설치 방법
 
