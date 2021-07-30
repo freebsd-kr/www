@@ -32,7 +32,7 @@ ftp.kr.freebsd.org 는 FreeBSD 의 한국 공식 미러 사이트일 뿐 아니�
 |OpenVZ|https://ftp.kr.freebsd.org/pub/openvz|rsync://download.openvz.org/openvz-download|매일|[공식](​https://mirrors.openvz.org/)||
 |x.org|https://ftp.kr.freebsd.org/pub/xorg|ftp://ftp.freedesktop.org|매일|[비공식](ttps://www.x.org/wiki/Releases/Download/)||
 |postgresql|https://ftp.kr.freebsd.org/pub/postgresql|rsync://rsync.postgresql.org/pgsql-ftp|매일|비공식|
-|gimp|https://ftp.kr.freebsd.org/pub/gimp|rsync://mirrors.xmission.com/gimp|매일|비공식|
+|gimp|https://ftp.kr.freebsd.org/pub/gimp|rsync://master.gnome.org/gimp|매일|공식|
 |~~openoffice~~|ftp://ftp.kr.freebsd.org/pub/openoffice|rsync://ftp.ussg.iu.edu/openoffice|매일|[비공식](http://download.services.openoffice.org/mirrors/all.html)|중지 (2019/2)|
 |~~mozilla~~|ftp://ftp.kr.freebsd.org/pub/ftp.mozilla.org|http://ftp.mozilla.org|매일|비공식|중지 (2019/2)|
 {{</table>}}
