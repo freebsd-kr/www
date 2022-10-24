@@ -33,15 +33,15 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 ## 릴리즈 버전
 
-최신 릴리즈는 **13.0-RELEASE** 입니다.
+최신 릴리즈는 **13.1-RELEASE** 입니다.
 
-### FreeBSD 13.0-RELEASE (2021/4)
+### FreeBSD 13.1-RELEASE (2022/5)
 
-최신 버전은 [13.0-RELEASE](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002031.html)
- (2021/4/13) 입니다.
+최신 버전은 [13.1-RELEASE](https://www.freebsd.org/releases/13.1R/announce/)
+ (2022/5/16) 입니다.
 
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/13.0/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.0-RELEASE/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/13.1/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.1-RELEASE/ 가상머신 이미지 다운로드
 
 ### FreeBSD 12.3-RELEASE (2021/12)
 
@@ -62,7 +62,7 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 [설치 가이드](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/bsdinstall.html)를 참조하시기 바랍니다.
 일반적으로는 위 링크에서 해당 아키텍처에 맞는 설치 이미지를 받아서 CD, DVD, USB, SD 카드 등 부트 가능한 미디어에 이미지
-파일을 복제하고 해당 미디어로 부팅 하면 설치 과정이 시작 됩니다.​
+파일을 복제하고 해당 미디어로 부팅 하면 설치 과정이 시작 됩니다.
 
 ## 일반 정보
 
