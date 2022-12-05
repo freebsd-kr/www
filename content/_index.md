@@ -43,11 +43,11 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 * https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/13.1/ ISO/USB/SD카드 설치 이미지 다운로드
 * https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/13.1-RELEASE/ 가상머신 이미지 다운로드
 
-### FreeBSD 12.3-RELEASE (2021/12)
+### FreeBSD 12.4-RELEASE (2022/12)
 
-* https://www.freebsd.org/releases/12.3R/announce/ 릴리즈 노트
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/12.3/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/12.3-RELEASE/ 가상머신 이미지 다운로드
+* https://www.freebsd.org/releases/12.4R/announce/ 릴리즈 노트
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/12.4/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/12.4-RELEASE/ 가상머신 이미지 다운로드
 
 ## 개발 버전
 
