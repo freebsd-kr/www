@@ -17,7 +17,7 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 * 사이트 소스: https://github.com/freebsd-kr/www
   * 내용 변경이나 추가에 대한 제안이 있으시면 위 페이지를 이용해 주세요. 풀 리퀘스트 환영 합니다.
   * github 에서는 사이트 내용 이외의 질문은 받지 않습니다.
-* 디스코드: 초대 링크는 페이스북 그룹을 참조해 주시기 바랍니다.
+* Discord 채널: [초대 링크](https://discord.gg/cBnSHPBpGf)
 
 # FreeBSD 정보
 
