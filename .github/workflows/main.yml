@@ -2,7 +2,7 @@
 # build only; deployment need to be manually done.
 name: CI
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
@@ -14,13 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: true
           fetch-depth: 1
 
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2
-        
+
       - name: Hugo build
         run: hugo -v --minify
