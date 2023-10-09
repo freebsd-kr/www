@@ -1,6 +1,6 @@
 ---
 title: 한국 FreeBSD 사용자 그룹
-description: "환영합니다!"
+description: "모두 환영합니다!"
 ---
 
 한국 FreeBSD 사용자 그룹은 FreeBSD를 사용하고 사랑하는 모든 사람을 위한 그룹입니다.
