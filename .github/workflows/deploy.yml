@@ -1,0 +1,34 @@
+# www.kr.freebsd.org site build
+# build only; deployment need to be manually done.
+name: Deploy
+
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2
+
+      - name: Hugo build
+        run: HUGO_ENV=production hugo --logLevel info --minify
+
+      - name: Deploy to www.kr.freebsd.org
+        uses: up9cloud/action-rsync@master
+        env:
+          MODE: push
+          HOST: www.kr.freebsd.org
+          USER: ${{ secrets.WWW_USER }}
+          KEY: ${{ secrets.WWW_SSHKEY }}
+          VERBOSE: true
+          SOURCE: public/
+          TARGET: /kfug/sites/www-pub/www.kr.freebsd.org/
