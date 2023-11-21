@@ -5,7 +5,8 @@ description: "모두 환영합니다!"
 
 한국 FreeBSD 사용자 그룹은 FreeBSD를 사용하고 사랑하는 모든 사람을 위한 그룹입니다.
 
-FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있습니다. 커뮤니티에 가입하실 분은 [페이스북 그룹](https://www.facebook.com/groups/freebsdkorea/) 에 가입해 주세요.
+FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있습니다.
+페이스북 그룹과 디스코드 서버도 같이 운영하고 있습니다. 아래 커뮤니티 정보를 참조하세요.
 
 # 미러 서버 - ftp.kr.freebsd.org
 
@@ -14,10 +15,10 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 # 커뮤니티 정보
 
 * Facebook 한국 FreeBSD 사용자 그룹: https://www.facebook.com/groups/freebsdkorea/
+* Discord KFUG 서버: [초대 링크](https://discord.gg/cBnSHPBpGf)
 * 사이트 소스: https://github.com/freebsd-kr/www
   * 내용 변경이나 추가에 대한 제안이 있으시면 위 페이지를 이용해 주세요. 풀 리퀘스트 환영 합니다.
   * github 에서는 사이트 내용 이외의 질문은 받지 않습니다.
-* Discord 채널: [초대 링크](https://discord.gg/cBnSHPBpGf)
 
 # FreeBSD 정보
 
