@@ -12,15 +12,15 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
 
       - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
 
       - name: Hugo build
-        run: HUGO_ENV=production hugo --logLevel info --minify
+        run: hugo --logLevel info --minify -e production
 
       - name: Deploy to www.kr.freebsd.org
         uses: up9cloud/action-rsync@master
