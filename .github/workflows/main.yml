@@ -17,6 +17,8 @@ jobs:
 
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v3
+        with:
+          extended: true
 
       - name: Hugo build
         run: hugo --logLevel debug --minify
