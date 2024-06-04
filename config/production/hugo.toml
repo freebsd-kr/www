@@ -1,2 +1,6 @@
 baseURL = "https://www.kr.freebsd.org/"
 title = "Korea FreeBSD Users Group"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-J8MPRP19CB'

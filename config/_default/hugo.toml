@@ -1,0 +1,7 @@
+theme = "ananke"
+
+languageCode = "ko-kr"
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+SectionPagesMenu = "main"
