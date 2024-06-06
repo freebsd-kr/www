@@ -74,6 +74,19 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 일반적으로는 위 링크에서 해당 아키텍처에 맞는 설치 이미지를 받아서 CD, DVD, USB, SD 카드 등 부트 가능한 미디어에 이미지
 파일을 복제하고 해당 미디어로 부팅 하면 설치 과정이 시작 됩니다.
 
+## 문서
+
+FreeBSD는 [공식 문서](https://docs.freebsd.org/en/)에서 핸드북을 비롯한 여러가지
+문서를 제공하고 있습니다.
+
+여기에는 한국어 번역도 포함되어 있으니, 공식 문서의 한국어 번역을 읽기 위해서는
+[한국어 문서](https://docs.freebsd.org/ko/) 섹션을 읽어 주세요.
+
+KFUG에서는 공식 사이트에 아직 포함되지 않은 최신본의 번역의 미러를 제공하고
+있습니다. 이중 Articles 의 최신 한국어 번역을 읽기 위해서는
+[KFUG의 한국어 문서 미러](https://www.kr.freebsd.org/doc-ko/ko/articles)를
+읽어 주세요. (하루에 두번 갱신)
+
 ## 일반 정보
 
 * Release Notes, Errata: https://www.FreeBSD.org/releases/
