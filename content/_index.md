@@ -35,15 +35,15 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 ## 릴리즈 버전
 
-최신 릴리즈는 **14.1-RELEASE** 입니다.
+최신 릴리즈는 **14.2-RELEASE** 입니다.
 
-### FreeBSD 14.1-RELEASE (2024/6)
+### FreeBSD 14.2-RELEASE (2024/12)
 
-최신 버전은 [14.1-RELEASE](https://www.freebsd.org/releases/14.1R/announce/)
- (2024/6/4) 입니다.
+최신 버전은 [14.2-RELEASE](https://www.freebsd.org/releases/14.2R/announce/)
+ (2024/12/3) 입니다.
 
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/14.1/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/14.1-RELEASE/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/14.2/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/14.2-RELEASE/ 가상머신 이미지 다운로드
 
 ### FreeBSD 13.4-RELEASE (2024/9)
 
