@@ -26,12 +26,14 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 ### 마스터 미러
 
-* http://ftp.kr.freebsd.org HTTP 한국 미러 - KFUG
-* https://ftp.kr.freebsd.org HTTPS 한국 미러 - KFUG
-* ftp://ftp.kr.freebsd.org FTP 한국 미러 - KFUG
-* http://ftp.kaist.ac.kr (KAIST) ftp2.kr.freebsd.org 로도 접속 가능 합니다. 단 /pub/FreeBSD가 아니라 /FreeBSD 임에 주의 하세요.
-* http://ftp2.kr.freebsd.org/FreeBSD HTTP 미러
-* ftp://ftp2.kr.freebsd.org/FreeBSD/ FTP 미러
+kr.freebsd.org 에 할당된 미러 사이트입니다.
+
+* KFUG HTTPS - https://ftp.kr.freebsd.org
+* KFUG HTTP - https://ftp.kr.freebsd.org
+* KFUG FTP - ftp://ftp.kr.freebsd.org
+* KAIST - https://ftp.kaist.ac.kr/freebsd/
+* KAIST HTTP - http://ftp2.kr.freebsd.org/FreeBSD
+* KAIST FTP - ftp://ftp2.kr.freebsd.org/FreeBSD
 
 ## 릴리즈 버전
 
