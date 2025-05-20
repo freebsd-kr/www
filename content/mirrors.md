@@ -23,7 +23,7 @@ ftp.kr.freebsd.org 는 FreeBSD 의 한국 공식 미러 사이트일 뿐 아니�
 | 프로그램 | 미러 경로 | 마스터 사이트 | 갱신주기 | 공식 여부 | 비고 |
 | --- | --- | --- | --- | --- | --- |
 | FreeBSD | https://ftp.kr.freebsd.org/pub/FreeBSD | ftp://ftp-master.freebsd.org | 매일 | [공식](https://www.freebsd.org/doc/handbook/mirrors-ftp.html) ||
-|CPAN| https://ftp.kr.freebsd.org/pub/CPAN | https://www.staff.science.uu.nl/~penni101/iim/ iim 사용|매일|[공식](http://www.cpan.org/SITES.html)||
+|CPAN| https://ftp.kr.freebsd.org/pub/CPAN | https://www.staff.science.uu.nl/~penni101/iim/ iim 사용|매일|[비공식](http://www.cpan.org/SITES.html)||
 |ruby| https://ftp.kr.freebsd.org/pub/ruby|ftp://ftp.ruby-lang.org|매일|[공식](https://www.ruby-lang.org/en/downloads/mirrors/)||
 |vim|https://ftp.kr.freebsd.org/pub/vim|ftp://ftp.home.vim.org/pub/vim|매일|[공식](https://www.vim.org/mirrors.php)|ftp.kr.vim.org = ftp.kr.freebsd.org 입니다|
 |[안녕리눅스](http://annyung.oops.org/)|https://ftp.kr.freebsd.org/pub/AnNyung|http://mirror.oops.org/|매일|[공식](https://annyung.oops.org/?m=data&p=download)||
