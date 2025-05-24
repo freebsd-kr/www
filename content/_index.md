@@ -28,12 +28,16 @@ FreeBSD에 관련된 주요 소식과 릴리즈 정보도 같이 전하고 있�
 
 kr.freebsd.org 에 할당된 미러 사이트입니다.
 
-* KFUG HTTPS - https://ftp.kr.freebsd.org
-* KFUG HTTP - https://ftp.kr.freebsd.org
-* KFUG FTP - ftp://ftp.kr.freebsd.org
+* FTP (KFUG) - https://ftp.kr.freebsd.org
+* FTP (KFUG) - https://ftp.kr.freebsd.org
+* FTP (KFUG) - ftp://ftp.kr.freebsd.org
+* FTP2 (KAIST) - http://ftp2.kr.freebsd.org/FreeBSD
+* FTP2 (KAIST) - ftp://ftp2.kr.freebsd.org/FreeBSD
+
+### 기타 미러
+
 * KAIST - https://ftp.kaist.ac.kr/freebsd/
-* KAIST HTTP - http://ftp2.kr.freebsd.org/FreeBSD
-* KAIST FTP - ftp://ftp2.kr.freebsd.org/FreeBSD
+* [카카오](https://mirror.kakao.com/) - https://mirror.kakao.com/FreeBSD
 
 ## 릴리즈 버전
 
