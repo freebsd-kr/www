@@ -41,7 +41,15 @@ kr.freebsd.org 에 할당된 미러 사이트입니다.
 
 ## 릴리즈 버전
 
-최신 릴리즈는 **14.2-RELEASE** 입니다.
+최신 릴리즈는 **15.0-RELEASE** 입니다.
+
+### FreeBSD 15.0-RELEASE (2025/12)
+
+최신 버전은 [15.0-RELEASE](https://www.freebsd.org/releases/15.0R/announce/)
+ (2024/12/2) 입니다.
+
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/15.0/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/15.0-RELEASE/ 가상머신 이미지 다운로드
 
 ### FreeBSD 14.2-RELEASE (2024/12)
 
@@ -61,12 +69,12 @@ kr.freebsd.org 에 할당된 미러 사이트입니다.
 
 ## 개발 버전
 
-최신 개발 버전은 **15.0-CURRENT** 입니다.
+최신 개발 버전은 **16.0-CURRENT** 입니다.
 
-### 15.0-CURRENT
+### 16.0-CURRENT
 
-* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/15.0/ 15.0-CURRENT ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/15.0-CURRENT/ 15.0-CURRENT 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/ISO-IMAGES/16.0/ 16.0-CURRENT ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/snapshots/VM-IMAGES/16.0-CURRENT/ 16.0-CURRENT 가상머신 이미지 다운로드
 
 ## 설치 방법
 
