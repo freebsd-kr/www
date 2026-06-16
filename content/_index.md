@@ -41,15 +41,15 @@ kr.freebsd.org 에 할당된 미러 사이트입니다.
 
 ## 릴리즈 버전
 
-최신 릴리즈는 **15.0-RELEASE** 입니다.
+최신 릴리즈는 **15.1-RELEASE** 입니다.
 
-### FreeBSD 15.0-RELEASE (2025/12)
+### FreeBSD 15.1-RELEASE (2026/6)
 
-최신 버전은 [15.0-RELEASE](https://www.freebsd.org/releases/15.0R/announce/)
- (2024/12/2) 입니다.
+최신 버전은 [15.1-RELEASE](https://www.freebsd.org/releases/15.1R/announce/)
+ (2026/6/16) 입니다.
 
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/15.0/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/15.0-RELEASE/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/15.1/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/15.1-RELEASE/ 가상머신 이미지 다운로드
 
 ### FreeBSD 14.4-RELEASE (2026/3)
 
