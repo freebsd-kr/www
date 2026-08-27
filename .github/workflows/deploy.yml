@@ -23,7 +23,7 @@ jobs:
           extended: true
 
       - name: Hugo build
-        run: hugo --logLevel info --minify -e production
+        run: hugo --logLevel debug --minify -e production
 
       - name: Deploy to www.kr.freebsd.org
         uses: up9cloud/action-rsync@master
