@@ -1,5 +1,5 @@
 ---
-title: "{www.ftp}.kr.freebsd.org IDC 이전"
+title: "{www,ftp}.kr.freebsd.org IDC 이전"
 draft: false
 date: 2023-08-07
 ---
