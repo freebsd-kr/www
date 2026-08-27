@@ -22,4 +22,4 @@ jobs:
           extended: true
 
       - name: Hugo build
-        run: hugo --logLevel debug --minify
+        run: hugo -EF --logLevel debug --minify --panicOnWarning
