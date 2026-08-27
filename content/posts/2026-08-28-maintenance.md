@@ -1,7 +1,7 @@
 ---
 title: "{www,ftp}.kr.freebsd.org IDC 이전(2026/8/29)"
 draft: false
-date: 2026-08-29
+date: 2026-08-28
 ---
 
 {www,ftp}.kr.freebsd.org 서버의 IDC 이전 작업이 예정되어 있습니다.
