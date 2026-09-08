@@ -51,13 +51,13 @@ kr.freebsd.org 에 할당된 미러 사이트입니다.
 * https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/15.1/ ISO/USB/SD카드 설치 이미지 다운로드
 * https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/15.1-RELEASE/ 가상머신 이미지 다운로드
 
-### FreeBSD 14.4-RELEASE (2026/3)
+### FreeBSD 14.5-RELEASE (2026/9)
 
-최신 버전은 [14.4-RELEASE](https://www.freebsd.org/releases/14.4R/announce/)
- (2026/3/10) 입니다.
+최신 버전은 [14.5-RELEASE](https://www.freebsd.org/releases/14.5R/announce/)
+ (2026/9/8) 입니다.
 
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/14.4/ ISO/USB/SD카드 설치 이미지 다운로드
-* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/14.4-RELEASE/ 가상머신 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/14.5/ ISO/USB/SD카드 설치 이미지 다운로드
+* https://ftp.kr.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/14.5-RELEASE/ 가상머신 이미지 다운로드
 
 ## 개발 버전
 
